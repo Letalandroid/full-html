@@ -1,0 +1,15 @@
+body {
+    background-color: #F0FFFF;
+
+}
+
+.mi_logo, .bandera {
+    margin: auto;
+    display: block;
+}
+
+.mi_name {
+    text-align: center;
+    font-size: 60px;
+    font-family: "Forte";
+}
